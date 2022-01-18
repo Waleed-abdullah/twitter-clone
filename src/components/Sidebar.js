@@ -1,6 +1,6 @@
 import './Sidebar.css';
-import TwitterIcon from '@mui/icons-material/Twitter';
 import SidebarOption from './SidebarOption';
+import TwitterIcon from '@mui/icons-material/Twitter';
 import HomeIcon from '@mui/icons-material/Home';
 import TagIcon from '@mui/icons-material/Tag';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
